@@ -1,0 +1,2 @@
+x1,y1,x2,y2,yolo_class_id,yolo_class_name,yolo_confidence,cnn_predicted_class,cnn_confidence,warning
+452,291,480,319,0,r_30,0.8171780705451965,0,0.9999185800552368,0
